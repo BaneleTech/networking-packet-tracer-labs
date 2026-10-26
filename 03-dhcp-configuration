@@ -1,0 +1,9 @@
+03-dhcp-configuration/
+├── README.md
+└── screenshots/
+    ├── dhcp-topology.png
+    ├── router-gateway.png
+    ├── dhcp-server-ip.png
+    ├── dhcp-pool-configuration.png
+    ├── dhcp-client-configuration.png
+    └── dhcp-connectivity-tests.png
